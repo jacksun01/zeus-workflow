@@ -2,8 +2,10 @@
 
 ## Description
 
-This is an example of demo application that uses **django & django rest framework** as a backend and **vue.js** as a frontend.
-#Jack qq:774428957
+Flexible work order system: The front end of the work order project is flexibly configured according to the needs, and the approval process is dynamically configured.
+#Jacksun qq:774428957
+#email:105163356@qq.com
+#wechat:taiji158
 ## Environment
 
 ```
