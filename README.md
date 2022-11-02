@@ -81,3 +81,6 @@ prod
 - API Docs: http://www.zeus.com/docs/
 
 默认管理员账号：admin   密码：abcccc
+
+## 分析架构
+https://note.youdao.com/s/byE8XhnT
