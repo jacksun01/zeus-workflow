@@ -2,7 +2,7 @@
 ## 分析架构
 该系统只是众多运维自动化系统中的一个，还有很多系统（CICD，CMDB，服务树，多云管理，K8S管理，成本中心，监控中心等等）
 
-https://note.youdao.com/s/byE8XhnT
+https://note.youdao.com/ynoteshare/index.html?id=189426b4aa392176cfe56e839160824e&type=note&_time=1668498223015
 
 
 ## Description
